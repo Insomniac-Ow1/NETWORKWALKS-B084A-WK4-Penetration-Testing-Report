@@ -1,0 +1,144 @@
+Hospital Database Tables
+
+Staff
+
+  ------------------------------------------------------------------------------------------------------------------------------------------
+  ID      Full name    Job title         Department       Email                              Phone   National ID      Monthly   Date joined
+                                                                                                                      salary    
+                                                                                                                      (ZAR)     
+  ------- ------------ ----------------- ---------------- ---------------------------------- ------- ---------------- --------- ------------
+  1       Dr. Rajesh   Chief Pathologist Diagnostics Lab  r.naidoo@medirozahospital.com      +27 82  85021013011081   138000    2009-03-16
+          Naidoo                                                                             101                                
+                                                                                             2007                               
+
+  2       Sarah Botha  Chief Financial   Finance          s.botha@medirozahospital.com       +27 82  85031023022082   152000    2011-07-01
+                       Officer                                                               102                                
+                                                                                             2014                               
+
+  3       Dr. Johan    Medical Director  Management       j.merwe@medirozahospital.com       +27 82  85041033033083   160000    2007-01-22
+          van der                                                                            103                                
+          Merwe                                                                              2021                               
+
+  4       Dr. Anita    Consultant        Cardiology       a.naicker@medirozahospital.com     +27 82  85051043044084   132000    2012-09-10
+          Naicker      Cardiologist                                                          104                                
+                                                                                             2028                               
+
+  5       Dr. Ahmed    Consultant        Internal         a.kara@medirozahospital.com        +27 82  85061053055085   128000    2013-02-18
+          Kara         Physician         Medicine                                            105                                
+                                                                                             2035                               
+
+  6       Dr. Yusuf    Senior Registrar  Emergency &      y.cassim@medirozahospital.com      +27 82  85071063066086   74000     2018-05-04
+          Cassim                         Trauma                                              106                                
+                                                                                             2042                               
+
+  7       Michael      HR Director       Human Resources  m.roberts@medirozahospital.com     +27 82  85081073077087   96000     2010-11-15
+          Roberts                                                                            107                                
+                                                                                             2049                               
+
+  8       Susan        HR Officer        Human Resources  s.pretorius@medirozahospital.com   +27 82  85091083088088   32000     2016-08-23
+          Pretorius                                                                          108                                
+                                                                                             2056                               
+
+  9       Jameel Malik IT Systems        IT               j.malik@medirozahospital.com       +27 82  85101093099080   58000     2015-04-12
+                       Administrator                                                         109                                
+                                                                                             2063                               
+
+  10      Thabo Molefe Network Engineer  IT               t.molefe@medirozahospital.com      +27 82  85111103110081   46000     2017-10-02
+                                                                                             110                                
+                                                                                             2070                               
+
+  11      Nomvula      Registered Nurse  Emergency &      n.khumalo@medirozahospital.com     +27 82  85121113121082   34000     2016-01-19
+          Khumalo                        Trauma                                              111                                
+                                                                                             2077                               
+
+  12      Lerato       Registered Nurse  Pediatrics       l.mokoena@medirozahospital.com     +27 82  85011123132083   33000     2017-06-07
+          Mokoena                                                                            112                                
+                                                                                             2084                               
+
+  13      Bongani      Registered Nurse  Cardiology       b.ndlovu@medirozahospital.com      +27 82  85021133143084   35000     2015-12-01
+          Ndlovu                                                                             113                                
+                                                                                             2091                               
+
+  14      Zanele       Nursing Sister    Theatre          z.mahlangu@medirozahospital.com    +27 82  85031143154085   42000     2013-03-25
+          Mahlangu                                                                           114                                
+                                                                                             2098                               
+
+  15      Kagiso       Pharmacist        Pharmacy         k.sithole@medirozahospital.com     +27 82  85041153165086   61000     2014-09-08
+          Sithole                                                                            115                                
+                                                                                             2105                               
+
+  16      Naledi Zulu  Pharmacy          Pharmacy         n.zulu@medirozahospital.com        +27 82  85051163176087   26000     2019-02-14
+                       Assistant                                                             116                                
+                                                                                             2112                               
+
+  17      Themba Nkosi Radiographer      Radiology        t.nkosi@medirozahospital.com       +27 82  85061173187088   44000     2016-07-30
+                                                                                             117                                
+                                                                                             2119                               
+
+  18      Palesa       Radiographer      Radiology        p.radebe@medirozahospital.com      +27 82  85071183198080   43000     2017-04-11
+          Radebe                                                                             118                                
+                                                                                             2126                               
+
+  19      Deepak       Lab Technologist  Diagnostics Lab  d.pillay@medirozahospital.com      +27 82  85081193209081   41000     2015-05-20
+          Pillay                                                                             119                                
+                                                                                             2133                               
+
+  20      Kavitha      Lab Technician    Diagnostics Lab  k.govender@medirozahospital.com    +27 82  85091203220082   35000     2018-08-06
+          Govender                                                                           120                                
+                                                                                             2140                               
+
+  21      Dr. Suresh   Consultant        Radiology        s.moodley@medirozahospital.com     +27 82  85101213231083   130000    2012-02-28
+          Moodley      Radiologist                                                           121                                
+                                                                                             2147                               
+
+  22      Dr. Fatima   Pediatrician      Pediatrics       f.patel@medirozahospital.com       +27 82  85111223242084   118000    2013-10-17
+          Patel                                                                              122                                
+                                                                                             2154                               
+
+  23      Nisha Singh  Physiotherapist   Rehabilitation   n.singh@medirozahospital.com       +27 82  85121233253085   48000     2016-11-09
+                                                                                             123                                
+                                                                                             2161                               
+
+  24      Dr. Vikram   Anaesthetist      Theatre          v.chetty@medirozahospital.com      +27 82  85011243264086   135000    2011-06-13
+          Chetty                                                                             124                                
+                                                                                             2168                               
+
+  25      David Smith  Facilities        Operations       d.smith@medirozahospital.com       +27 82  85021253275087   52000     2014-01-27
+                       Manager                                                               125                                
+                                                                                             2175                               
+
+  26      Karen        Billing           Finance          k.oconnor@medirozahospital.com     +27 82  85031263286088   29000     2018-03-19
+          O’Connor     Administrator                                                         126                                
+                                                                                             2182                               
+
+  27      James Wilson Security          Operations       j.wilson@medirozahospital.com      +27 82  85041273297080   27000     2019-09-02
+                       Supervisor                                                            127                                
+                                                                                             2189                               
+
+  28      Linda Fourie Receptionist      Front Office     l.fourie@medirozahospital.com      +27 82  85051283308081   19000     2020-02-10
+                                                                                             128                                
+                                                                                             2196                               
+
+  29      Peter van    Procurement       Supply Chain     p.wyk@medirozahospital.com         +27 82  85061293319082   38000     2015-08-24
+          Wyk          Officer                                                               129                                
+                                                                                             2203                               
+
+  30      Andile Mbeki Ward Clerk        Administration   a.mbeki@medirozahospital.com       +27 82  85071303330083   21000     2019-11-05
+                                                                                             130                                
+                                                                                             2210                               
+  ------------------------------------------------------------------------------------------------------------------------------------------
+
+Shareholders
+
+  ID   Shareholder name                  Share percentage   Shares held   Share class
+  ---- --------------------------------- ------------------ ------------- --------------
+  1    Dr. Rajesh Naidoo                 18.00%             180000        Ordinary
+  2    Cedar Health Holdings (Pty) Ltd   15.00%             150000        Ordinary
+  3    Dr. Johan van der Merwe           12.00%             120000        Ordinary
+  4    Reddy Family Trust                11.00%             110000        Ordinary
+  5    Thabo Molefe                      10.00%             100000        Ordinary
+  6    Sarah Botha                       9.00%              90000         Ordinary
+  7    Dr. Ahmed Kara                    8.00%              80000         Preferential
+  8    Naledi Zulu                       7.00%              70000         Ordinary
+  9    Michael Roberts                   6.00%              60000         Ordinary
+  10   Dr. Vikram Chetty                 4.00%              40000         Preferential
